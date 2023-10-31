@@ -1,0 +1,19 @@
+﻿  各进制位数之和相同（游卡笔试）.cpp
+  字符串全排列.cpp
+D:\VS项目\C++八股文测试代码\C++八股文测试代码\字符串全排列.cpp(17,34): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  拆分数字并组合.cpp
+  数字拼接最大.cpp
+  整数转为二进制（游卡笔试）.cpp
+D:\VS项目\C++八股文测试代码\C++八股文测试代码\整数转为二进制（游卡笔试）.cpp(6,37): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\VS项目\C++八股文测试代码\C++八股文测试代码\整数转为二进制（游卡笔试）.cpp(25,21): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  查找两个数等于特定值.cpp
+  栈实现迷宫问题.cpp
+  求非质数的和(游卡笔试).cpp
+D:\VS项目\C++八股文测试代码\C++八股文测试代码\求非质数的和(游卡笔试).cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  求非质数的和2.cpp
+  活动选择问题.cpp
+  钢条切割问题.cpp
+  最长公共子序列（动态规划）.cpp
+  正在生成代码...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: “link.exe”已退出，代码为 1104。
+LINK : fatal error LNK1104: 无法打开文件“opencv_world450d.lib”
